@@ -1,4 +1,7 @@
 # Vigenere-Cipher-Decryption
+group member name: mariam nadeem 
+class: CIS: 7 (Discrete Structures)
+
 Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form of polyalphabetic  substitution. A polyalphabetic cipher is any cipher based on substitution, using multiple substitution  alphabets .The encryption of the original text is done using the Vigenère square or Vigenère table.
 The table consists of the alphabets written out 26 times in different rows, each alphabet shifted 
 cyclically to the left compared to the previous alphabet, corresponding to the 26 possible Caesar 
@@ -17,3 +20,8 @@ to row Y (from AYUSH), locate the ciphertext C which is found in column E, thus 
 letter.
 An easier implementation could be to visualize Vigenère algebraically by converting [A-Z] into numbers 
 [0–25].
+
+Worikng: so first run the program
+selet E for encryption and D for decryption
+enter the message and than enter the key
+so it will genrate the outpout base of what you select 
